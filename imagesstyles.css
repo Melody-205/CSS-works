@@ -1,0 +1,22 @@
+/* reset css */ *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav-link {
+    display: flex;
+    justify-content: center;
+    margin: 6px;
+}
+a:hover {
+    color: gold;
+}
+a {
+    text-decoration: none;
+    list-style: none;
+    margin-left: 50px;
+    color: white;
+}
+body {
+    background-color: black;
+}

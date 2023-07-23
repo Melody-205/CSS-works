@@ -1,0 +1,39 @@
+/* reset css */ *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a:hover {
+    color:gold;    
+}
+a {
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+}
+body {
+    background-color: black;
+}
+
+p {
+    font-size: 30px;
+    color: white;
+}
+img {
+    margin-left: 15px;
+    margin-top: 6px;
+}
+.bold {
+    color: white;
+    font-size: 50px;
+    
+}
+.p-black {
+    color: white;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 800px;
+}
